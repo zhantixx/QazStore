@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">QazStore</string>
+    <string-array name="country_codes">
+        <item>+1</item>     <!-- USA/Canada -->
+        <item>+7</item>     <!-- Russia/Kazakhstan -->
+        <item>+44</item>    <!-- UK -->
+        <item>+91</item>    <!-- India -->
+        <item>+92</item>    <!-- Pakistan -->
+        <!-- Добавь по необходимости -->
+    </string-array>
+</resources>
